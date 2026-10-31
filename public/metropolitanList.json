@@ -1,0 +1,723 @@
+{
+    "Range_Name_Bn": "মেট্রোপলিটন পুলিশ",
+    "Range_Name_En": "Metropolitan Police",
+    "Range_ID": "BPMP",
+    "Districts": [
+        {
+            "District_Name_Bn": "ঢাকা মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Dhaka Metropolitan Police",
+            "District_ID": "BPMPDK",
+            "Thanas": [
+                {
+                    "Thana_Number": 527,
+                    "Thana_Name_Bn": "আদাবর থানা",
+                    "Thana_Name_En": "Adabor Thana",
+                    "Thana_ID": "BPMPDKADA"
+                },
+                {
+                    "Thana_Number": 528,
+                    "Thana_Name_Bn": "বিমানবন্দর থানা",
+                    "Thana_Name_En": "Bimanbandar Thana",
+                    "Thana_ID": "BPMPDKAIR"
+                },
+                {
+                    "Thana_Number": 529,
+                    "Thana_Name_Bn": "বাড্ডা থানা",
+                    "Thana_Name_En": "Badda Thana",
+                    "Thana_ID": "BPMPDKBAD"
+                },
+                {
+                    "Thana_Number": 530,
+                    "Thana_Name_Bn": "বনানী থানা",
+                    "Thana_Name_En": "Banani Thana",
+                    "Thana_ID": "BPMPDKBAN"
+                },
+                {
+                    "Thana_Number": 531,
+                    "Thana_Name_Bn": "বংশাল থানা",
+                    "Thana_Name_En": "Bangshal Thana",
+                    "Thana_ID": "BPMPDKBAB"
+                },
+                {
+                    "Thana_Number": 532,
+                    "Thana_Name_Bn": "ভাসানটেক থানা",
+                    "Thana_Name_En": "Bhasantek Thana",
+                    "Thana_ID": "BPMPDKBHA"
+                },
+                {
+                    "Thana_Number": 533,
+                    "Thana_Name_Bn": "ক্যান্টনমেন্ট থানা",
+                    "Thana_Name_En": "Cantonment Thana",
+                    "Thana_ID": "BPMPDKCAN"
+                },
+                {
+                    "Thana_Number": 534,
+                    "Thana_Name_Bn": "চকবাজার থানা",
+                    "Thana_Name_En": "Chakbazar Thana",
+                    "Thana_ID": "BPMPDKCHA"
+                },
+                {
+                    "Thana_Number": 535,
+                    "Thana_Name_Bn": "দক্ষিণখান থানা",
+                    "Thana_Name_En": "Dakkhinkhan Thana",
+                    "Thana_ID": "BPMPDKDAK"
+                },
+                {
+                    "Thana_Number": 536,
+                    "Thana_Name_Bn": "দারুস সালাম থানা",
+                    "Thana_Name_En": "Darus Salam Thana",
+                    "Thana_ID": "BPMPDKDAR"
+                },
+                {
+                    "Thana_Number": 537,
+                    "Thana_Name_Bn": "ডেমরা থানা",
+                    "Thana_Name_En": "Demra Thana",
+                    "Thana_ID": "BPMPDKDEM"
+                },
+                {
+                    "Thana_Number": 538,
+                    "Thana_Name_Bn": "ধানমন্ডি থানা",
+                    "Thana_Name_En": "Dhanmondi Thana",
+                    "Thana_ID": "BPMPDKDHA"
+                },
+                {
+                    "Thana_Number": 539,
+                    "Thana_Name_Bn": "গেন্ডারিয়া থানা",
+                    "Thana_Name_En": "Gendaria Thana",
+                    "Thana_ID": "BPMPDKGAN"
+                },
+                {
+                    "Thana_Number": 540,
+                    "Thana_Name_Bn": "গুলশান থানা",
+                    "Thana_Name_En": "Gulshan Thana",
+                    "Thana_ID": "BPMPDKGUL"
+                },
+                {
+                    "Thana_Number": 541,
+                    "Thana_Name_Bn": "হাতিরঝিল থানা",
+                    "Thana_Name_En": "Hatirjheel Thana",
+                    "Thana_ID": "BPMPDKHAT"
+                },
+                {
+                    "Thana_Number": 542,
+                    "Thana_Name_Bn": "হাজারীবাগ থানা",
+                    "Thana_Name_En": "Hazaribagh Thana",
+                    "Thana_ID": "BPMPDKHAZ"
+                },
+                {
+                    "Thana_Number": 543,
+                    "Thana_Name_Bn": "যাত্রাবাড়ী থানা",
+                    "Thana_Name_En": "Jatrabari Thana",
+                    "Thana_ID": "BPMPDKJAT"
+                },
+                {
+                    "Thana_Number": 544,
+                    "Thana_Name_Bn": "কদমতলী থানা",
+                    "Thana_Name_En": "Kadamtali Thana",
+                    "Thana_ID": "BPMPDKKAD"
+                },
+                {
+                    "Thana_Number": 545,
+                    "Thana_Name_Bn": "কাফরুল থানা",
+                    "Thana_Name_En": "Kafrul Thana",
+                    "Thana_ID": "BPMPDKKAF"
+                },
+                {
+                    "Thana_Number": 546,
+                    "Thana_Name_Bn": "কলাবাগান থানা",
+                    "Thana_Name_En": "Kalabagan Thana",
+                    "Thana_ID": "BPMPDKKAL"
+                },
+                {
+                    "Thana_Number": 547,
+                    "Thana_Name_Bn": "কামরাঙ্গীরচর থানা",
+                    "Thana_Name_En": "Kamrangirchar Thana",
+                    "Thana_ID": "BPMPDKKAM"
+                },
+                {
+                    "Thana_Number": 548,
+                    "Thana_Name_Bn": "খিলগাঁও থানা",
+                    "Thana_Name_En": "Khilgaon Thana",
+                    "Thana_ID": "BPMPDKKHI"
+                },
+                {
+                    "Thana_Number": 549,
+                    "Thana_Name_Bn": "খিলক্ষেত থানা",
+                    "Thana_Name_En": "Khilkhet Thana",
+                    "Thana_ID": "BPMPDKKHK"
+                },
+                {
+                    "Thana_Number": 550,
+                    "Thana_Name_Bn": "কোতোয়ালি থানা",
+                    "Thana_Name_En": "Kotwali Thana",
+                    "Thana_ID": "BPMPDKKOT"
+                },
+                {
+                    "Thana_Number": 551,
+                    "Thana_Name_Bn": "লালবাগ থানা",
+                    "Thana_Name_En": "Lalbagh Thana",
+                    "Thana_ID": "BPMPDKLAL"
+                },
+                {
+                    "Thana_Number": 552,
+                    "Thana_Name_Bn": "মিরপুর মডেল থানা",
+                    "Thana_Name_En": "Mirpur Model Thana",
+                    "Thana_ID": "BPMPDKMIR"
+                },
+                {
+                    "Thana_Number": 553,
+                    "Thana_Name_Bn": "মোহাম্মদপুর থানা",
+                    "Thana_Name_En": "Mohammadpur Thana",
+                    "Thana_ID": "BPMPDKMOH"
+                },
+                {
+                    "Thana_Number": 554,
+                    "Thana_Name_Bn": "মতিঝিল থানা",
+                    "Thana_Name_En": "Motijheel Thana",
+                    "Thana_ID": "BPMPDKMOT"
+                },
+                {
+                    "Thana_Number": 555,
+                    "Thana_Name_Bn": "মুগদা থানা",
+                    "Thana_Name_En": "Mugda Thana",
+                    "Thana_ID": "BPMPDKMUG"
+                },
+                {
+                    "Thana_Number": 556,
+                    "Thana_Name_Bn": "নিউমার্কেট থানা",
+                    "Thana_Name_En": "New Market Thana",
+                    "Thana_ID": "BPMPDKNEW"
+                },
+                {
+                    "Thana_Number": 557,
+                    "Thana_Name_Bn": "পল্লবী থানা",
+                    "Thana_Name_En": "Pallabi Thana",
+                    "Thana_ID": "BPMPDKPAL"
+                },
+                {
+                    "Thana_Number": 558,
+                    "Thana_Name_Bn": "পল্টন মডেল থানা",
+                    "Thana_Name_En": "Paltan Model Thana",
+                    "Thana_ID": "BPMPDKPAM"
+                },
+                {
+                    "Thana_Number": 559,
+                    "Thana_Name_Bn": "রমনা মডেল থানা",
+                    "Thana_Name_En": "Ramna Model Thana",
+                    "Thana_ID": "BPMPDKRAM"
+                },
+                {
+                    "Thana_Number": 560,
+                    "Thana_Name_Bn": "রামপুরা থানা",
+                    "Thana_Name_En": "Rampura Thana",
+                    "Thana_ID": "BPMPDKRAR"
+                },
+                {
+                    "Thana_Number": 561,
+                    "Thana_Name_Bn": "রূপনগর থানা",
+                    "Thana_Name_En": "Rupnagar Thana",
+                    "Thana_ID": "BPMPDKRUP"
+                },
+                {
+                    "Thana_Number": 562,
+                    "Thana_Name_Bn": "সবুজবাগ থানা",
+                    "Thana_Name_En": "Sabujbagh Thana",
+                    "Thana_ID": "BPMPDKSAB"
+                },
+                {
+                    "Thana_Number": 563,
+                    "Thana_Name_Bn": "শাহ আলী থানা",
+                    "Thana_Name_En": "Shah Ali Thana",
+                    "Thana_ID": "BPMPDKSHA"
+                },
+                {
+                    "Thana_Number": 564,
+                    "Thana_Name_Bn": "শাহবাগ থানা",
+                    "Thana_Name_En": "Shahbagh Thana",
+                    "Thana_ID": "BPMPDKSHS"
+                },
+                {
+                    "Thana_Number": 565,
+                    "Thana_Name_Bn": "শাহজাহানপুর থানা",
+                    "Thana_Name_En": "Shahjahanpur Thana",
+                    "Thana_ID": "BPMPDKSSH"
+                },
+                {
+                    "Thana_Number": 566,
+                    "Thana_Name_Bn": "শেরবাংলা নগর থানা",
+                    "Thana_Name_En": "Sher-e-Bangla Nagar Thana",
+                    "Thana_ID": "BPMPDKSHE"
+                },
+                {
+                    "Thana_Number": 567,
+                    "Thana_Name_Bn": "শ্যামপুর থানা",
+                    "Thana_Name_En": "Shyampur Thana",
+                    "Thana_ID": "BPMPDKSHY"
+                },
+                {
+                    "Thana_Number": 568,
+                    "Thana_Name_Bn": "সূত্রাপুর থানা",
+                    "Thana_Name_En": "Sutrapur Thana",
+                    "Thana_ID": "BPMPDKSUT"
+                },
+                {
+                    "Thana_Number": 569,
+                    "Thana_Name_Bn": "তেজগাঁও থানা",
+                    "Thana_Name_En": "Tejgaon Thana",
+                    "Thana_ID": "BPMPDKTEJ"
+                },
+                {
+                    "Thana_Number": 570,
+                    "Thana_Name_Bn": "তেজগাঁও শিল্পাঞ্চল থানা",
+                    "Thana_Name_En": "Tejgaon Industrial Area Thana",
+                    "Thana_ID": "BPMPDKTEA"
+                },
+                {
+                    "Thana_Number": 571,
+                    "Thana_Name_Bn": "তুরাগ থানা",
+                    "Thana_Name_En": "Turag Thana",
+                    "Thana_ID": "BPMPDKTUR"
+                },
+                {
+                    "Thana_Number": 572,
+                    "Thana_Name_Bn": "উত্তরখান থানা",
+                    "Thana_Name_En": "Uttarkhan Thana",
+                    "Thana_ID": "BPMPDKUTT"
+                },
+                {
+                    "Thana_Number": 573,
+                    "Thana_Name_Bn": "উত্তরা পূর্ব থানা",
+                    "Thana_Name_En": "Uttara East Thana",
+                    "Thana_ID": "BPMPDKUTE"
+                },
+                {
+                    "Thana_Number": 574,
+                    "Thana_Name_Bn": "উত্তরা পশ্চিম থানা",
+                    "Thana_Name_En": "Uttara West Thana",
+                    "Thana_ID": "BPMPDKUTW"
+                },
+                {
+                    "Thana_Number": 575,
+                    "Thana_Name_Bn": "ভাটারা থানা",
+                    "Thana_Name_En": "Vatara Thana",
+                    "Thana_ID": "BPMPDKVAT"
+                },
+                {
+                    "Thana_Number": 576,
+                    "Thana_Name_Bn": "ওয়ারী থানা",
+                    "Thana_Name_En": "Wari Thana",
+                    "Thana_ID": "BPMPDKWAR"
+                }
+            ]
+        },
+        {
+            "District_Name_Bn": "চট্টগ্রাম মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Chittagong Metropolitan Police",
+            "District_ID": "BPMPCT",
+            "Thanas": [
+                {
+                    "Thana_Number": 577,
+                    "Thana_Name_Bn": "কোতোয়ালি থানা",
+                    "Thana_Name_En": "Kotwali Thana",
+                    "Thana_ID": "BPMPCTKOT"
+                },
+                {
+                    "Thana_Number": 578,
+                    "Thana_Name_Bn": "বাকলিয়া থানা",
+                    "Thana_Name_En": "Bakalia Thana",
+                    "Thana_ID": "BPMPCTBAK"
+                },
+                {
+                    "Thana_Number": 579,
+                    "Thana_Name_Bn": "চকবাজার থানা",
+                    "Thana_Name_En": "Chakbazar Thana",
+                    "Thana_ID": "BPMPCTCHA"
+                },
+                {
+                    "Thana_Number": 580,
+                    "Thana_Name_Bn": "সদরঘাট থানা",
+                    "Thana_Name_En": "Sadarghat Thana",
+                    "Thana_ID": "BPMPCTSAD"
+                },
+                {
+                    "Thana_Number": 581,
+                    "Thana_Name_Bn": "পাঁচলাইশ থানা",
+                    "Thana_Name_En": "Panchlaish Thana",
+                    "Thana_ID": "BPMPCTPAN"
+                },
+                {
+                    "Thana_Number": 582,
+                    "Thana_Name_Bn": "চান্দগাঁও থানা",
+                    "Thana_Name_En": "Chandgaon Thana",
+                    "Thana_ID": "BPMPCTCHC"
+                },
+                {
+                    "Thana_Number": 583,
+                    "Thana_Name_Bn": "বায়োজিদ বোস্তামী থানা",
+                    "Thana_Name_En": "Bayezid Bostami Thana",
+                    "Thana_ID": "BPMPCTBAY"
+                },
+                {
+                    "Thana_Number": 584,
+                    "Thana_Name_Bn": "খুলশী থানা",
+                    "Thana_Name_En": "Khulshi Thana",
+                    "Thana_ID": "BPMPCTKHU"
+                },
+                {
+                    "Thana_Number": 585,
+                    "Thana_Name_Bn": "ডবলমুরিং থানা",
+                    "Thana_Name_En": "Double Mooring Thana",
+                    "Thana_ID": "BPMPCTDOU"
+                },
+                {
+                    "Thana_Number": 586,
+                    "Thana_Name_Bn": "পাহাড়তলী থানা",
+                    "Thana_Name_En": "Pahartali Thana",
+                    "Thana_ID": "BPMPCTPAH"
+                },
+                {
+                    "Thana_Number": 587,
+                    "Thana_Name_Bn": "হালিশহর থানা",
+                    "Thana_Name_En": "Halishahar Thana",
+                    "Thana_ID": "BPMPCTHAL"
+                },
+                {
+                    "Thana_Number": 588,
+                    "Thana_Name_Bn": "আকবর শাহ থানা",
+                    "Thana_Name_En": "Akbar Shah Thana",
+                    "Thana_ID": "BPMPCTAKB"
+                },
+                {
+                    "Thana_Number": 589,
+                    "Thana_Name_Bn": "বন্দর থানা",
+                    "Thana_Name_En": "Bandar Thana",
+                    "Thana_ID": "BPMPCTBAN"
+                },
+                {
+                    "Thana_Number": 590,
+                    "Thana_Name_Bn": "পতেঙ্গা থানা",
+                    "Thana_Name_En": "Patenga Thana",
+                    "Thana_ID": "BPMPCTPAT"
+                },
+                {
+                    "Thana_Number": 591,
+                    "Thana_Name_Bn": "ইপিজেড থানা",
+                    "Thana_Name_En": "EPZ Thana",
+                    "Thana_ID": "BPMPCTEPZ"
+                },
+                {
+                    "Thana_Number": 592,
+                    "Thana_Name_Bn": "কর্ণফুলী থানা",
+                    "Thana_Name_En": "Karnafuli Thana",
+                    "Thana_ID": "BPMPCTKAR"
+                }
+            ]
+        },
+        {
+            "District_Name_Bn": "রাজশাহী মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Rajshahi Metropolitan Police",
+            "District_ID": "BPMPRJ",
+            "Thanas": [
+                {
+                    "Thana_Number": 593,
+                    "Thana_Name_Bn": "বোয়ালিয়া থানা",
+                    "Thana_Name_En": "Boalia Thana",
+                    "Thana_ID": "BPMPRJBOA"
+                },
+                {
+                    "Thana_Number": 594,
+                    "Thana_Name_Bn": "রাজপাড়া থানা",
+                    "Thana_Name_En": "Rajpara Thana",
+                    "Thana_ID": "BPMPRJRAJ"
+                },
+                {
+                    "Thana_Number": 595,
+                    "Thana_Name_Bn": "চন্দ্রিমা থানা",
+                    "Thana_Name_En": "Chandrima Thana",
+                    "Thana_ID": "BPMPRJCHA"
+                },
+                {
+                    "Thana_Number": 596,
+                    "Thana_Name_Bn": "মতিহার থানা",
+                    "Thana_Name_En": "Motihar Thana",
+                    "Thana_ID": "BPMPRJMOT"
+                },
+                {
+                    "Thana_Number": 597,
+                    "Thana_Name_Bn": "কাটাখালী থানা",
+                    "Thana_Name_En": "Katakhali Thana",
+                    "Thana_ID": "BPMPRJKAT"
+                },
+                {
+                    "Thana_Number": 598,
+                    "Thana_Name_Bn": "বেলপুকুর থানা",
+                    "Thana_Name_En": "Belpukur Thana",
+                    "Thana_ID": "BPMPRJBEL"
+                },
+                {
+                    "Thana_Number": 599,
+                    "Thana_Name_Bn": "শাহ মখদুম থানা",
+                    "Thana_Name_En": "Shah Makhdum Thana",
+                    "Thana_ID": "BPMPRJSHA"
+                },
+                {
+                    "Thana_Number": 600,
+                    "Thana_Name_Bn": "বিমানবন্দর থানা",
+                    "Thana_Name_En": "Bimanbandar Thana",
+                    "Thana_ID": "BPMPRJAIR"
+                },
+                {
+                    "Thana_Number": 601,
+                    "Thana_Name_Bn": "পবা থানা",
+                    "Thana_Name_En": "Paba Thana",
+                    "Thana_ID": "BPMPRJPAB"
+                },
+                {
+                    "Thana_Number": 602,
+                    "Thana_Name_Bn": "কাশিয়াডাঙ্গা থানা",
+                    "Thana_Name_En": "Kashiadanga Thana",
+                    "Thana_ID": "BPMPRJKAS"
+                },
+                {
+                    "Thana_Number": 603,
+                    "Thana_Name_Bn": "কর্ণহার থানা",
+                    "Thana_Name_En": "Karnahar Thana",
+                    "Thana_ID": "BPMPRJKAR"
+                },
+                {
+                    "Thana_Number": 604,
+                    "Thana_Name_Bn": "দামকুড়া থানা",
+                    "Thana_Name_En": "Damkura Thana",
+                    "Thana_ID": "BPMPRJDAM"
+                }
+            ]
+        },
+        {
+            "District_Name_Bn": "খুলনা মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Khulna Metropolitan Police",
+            "District_ID": "BPMPKL",
+            "Thanas": [
+                {
+                    "Thana_Number": 605,
+                    "Thana_Name_Bn": "খুলনা সদর থানা",
+                    "Thana_Name_En": "Khulna Sadar Thana",
+                    "Thana_ID": "BPMPKLKHU"
+                },
+                {
+                    "Thana_Number": 606,
+                    "Thana_Name_Bn": "সোনাডাঙ্গা থানা",
+                    "Thana_Name_En": "Sonadanga Thana",
+                    "Thana_ID": "BPMPKLSON"
+                },
+                {
+                    "Thana_Number": 607,
+                    "Thana_Name_Bn": "খালিশপুর থানা",
+                    "Thana_Name_En": "Khalishpur Thana",
+                    "Thana_ID": "BPMPKLKHA"
+                },
+                {
+                    "Thana_Number": 608,
+                    "Thana_Name_Bn": "দৌলতপুর থানা",
+                    "Thana_Name_En": "Daulatpur Thana",
+                    "Thana_ID": "BPMPKLDAU"
+                },
+                {
+                    "Thana_Number": 609,
+                    "Thana_Name_Bn": "খানজাহান আলী থানা",
+                    "Thana_Name_En": "Khan Jahan Ali Thana",
+                    "Thana_ID": "BPMPKLKHA"
+                },
+                {
+                    "Thana_Number": 610,
+                    "Thana_Name_Bn": "লবণচরা থানা",
+                    "Thana_Name_En": "Labanchara Thana",
+                    "Thana_ID": "BPMPKLLAB"
+                },
+                {
+                    "Thana_Number": 611,
+                    "Thana_Name_Bn": "হরিণটানা থানা",
+                    "Thana_Name_En": "Harintana Thana",
+                    "Thana_ID": "BPMPKLHAR"
+                },
+                {
+                    "Thana_Number": 612,
+                    "Thana_Name_Bn": "আরংঘাটা থানা",
+                    "Thana_Name_En": "Aranghata Thana",
+                    "Thana_ID": "BPMPKLARA"
+                }
+            ]
+        },
+        {
+            "District_Name_Bn": "বরিশাল মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Barisal Metropolitan Police",
+            "District_ID": "BPMPBZ",
+            "Thanas": [
+                {
+                    "Thana_Number": 613,
+                    "Thana_Name_Bn": "কোতোয়ালি মডেল থানা",
+                    "Thana_Name_En": "Kotwali Model Thana",
+                    "Thana_ID": "BPMPBZKOT"
+                },
+                {
+                    "Thana_Number": 614,
+                    "Thana_Name_Bn": "কাউনিয়া থানা",
+                    "Thana_Name_En": "Kaunia Thana",
+                    "Thana_ID": "BPMPBZKAU"
+                },
+                {
+                    "Thana_Number": 615,
+                    "Thana_Name_Bn": "বিমানবন্দর থানা",
+                    "Thana_Name_En": "Bimanbandar Thana",
+                    "Thana_ID": "BPMPBZAIR"
+                },
+                {
+                    "Thana_Number": 616,
+                    "Thana_Name_Bn": "বন্দর থানা",
+                    "Thana_Name_En": "Bandar Thana",
+                    "Thana_ID": "BPMPBZBAN"
+                }
+            ]
+        },
+        {
+            "District_Name_Bn": "সিলেট মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Sylhet Metropolitan Police",
+            "District_ID": "BPMPSY",
+            "Thanas": [
+                {
+                    "Thana_Number": 617,
+                    "Thana_Name_Bn": "কোতোয়ালি মডেল থানা",
+                    "Thana_Name_En": "Kotwali Model Thana",
+                    "Thana_ID": "BPMPSYKOT"
+                },
+                {
+                    "Thana_Number": 618,
+                    "Thana_Name_Bn": "জালালাবাদ থানা",
+                    "Thana_Name_En": "Jalalabad Thana",
+                    "Thana_ID": "BPMPSYJAL"
+                },
+                {
+                    "Thana_Number": 619,
+                    "Thana_Name_Bn": "বিমানবন্দর থানা",
+                    "Thana_Name_En": "Bimanbandar Thana",
+                    "Thana_ID": "BPMPSYAIR"
+                },
+                {
+                    "Thana_Number": 620,
+                    "Thana_Name_Bn": "শাহপরান থানা",
+                    "Thana_Name_En": "Shah Poran Thana",
+                    "Thana_ID": "BPMPSYSHA"
+                },
+                {
+                    "Thana_Number": 621,
+                    "Thana_Name_Bn": "দক্ষিণ সুরমা থানা",
+                    "Thana_Name_En": "Dakkhin Surma Thana",
+                    "Thana_ID": "BPMPSYDAK"
+                },
+                {
+                    "Thana_Number": 622,
+                    "Thana_Name_Bn": "মোগলাবাজার থানা",
+                    "Thana_Name_En": "Moglabazar Thana",
+                    "Thana_ID": "BPMPSYMOG"
+                }
+            ]
+        },
+        {
+            "District_Name_Bn": "রংপুর মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Rangpur Metropolitan Police",
+            "District_ID": "BPMPRP",
+            "Thanas": [
+                {
+                    "Thana_Number": 623,
+                    "Thana_Name_Bn": "কোতোয়ালি থানা",
+                    "Thana_Name_En": "Kotwali Thana",
+                    "Thana_ID": "BPMPRPKOT"
+                },
+                {
+                    "Thana_Number": 624,
+                    "Thana_Name_Bn": "পরশুরাম থানা",
+                    "Thana_Name_En": "Parshuram Thana",
+                    "Thana_ID": "BPMPRPPAR"
+                },
+                {
+                    "Thana_Number": 625,
+                    "Thana_Name_Bn": "হাজীরহাট থানা",
+                    "Thana_Name_En": "Hajirhat Thana",
+                    "Thana_ID": "BPMPRPHAJ"
+                },
+                {
+                    "Thana_Number": 626,
+                    "Thana_Name_Bn": "হারাগাছ থানা",
+                    "Thana_Name_En": "Haragach Thana",
+                    "Thana_ID": "BPMPRPHAR"
+                },
+                {
+                    "Thana_Number": 627,
+                    "Thana_Name_Bn": "মাহিগঞ্জ থানা",
+                    "Thana_Name_En": "Mahiganj Thana",
+                    "Thana_ID": "BPMPRPMAH"
+                },
+                {
+                    "Thana_Number": 628,
+                    "Thana_Name_Bn": "তাজহাট থানা",
+                    "Thana_Name_En": "Tajhat Thana",
+                    "Thana_ID": "BPMPRPTAJ"
+                }
+            ]
+        },
+        {
+            "District_Name_Bn": "গাজীপুর মেট্রোপলিটন পুলিশ",
+            "District_Name_En": "Gazipur Metropolitan Police",
+            "District_ID": "BPMPGZ",
+            "Thanas": [
+                {
+                    "Thana_Number": 629,
+                    "Thana_Name_Bn": "গাজীপুর সদর থানা",
+                    "Thana_Name_En": "Gazipur Sadar Thana",
+                    "Thana_ID": "BPMPGZGAZ"
+                },
+                {
+                    "Thana_Number": 630,
+                    "Thana_Name_Bn": "বাসন থানা",
+                    "Thana_Name_En": "Bason Thana",
+                    "Thana_ID": "BPMPGZBAS"
+                },
+                {
+                    "Thana_Number": 631,
+                    "Thana_Name_Bn": "কোনাবাড়ী থানা",
+                    "Thana_Name_En": "Konabari Thana",
+                    "Thana_ID": "BPMPGZKON"
+                },
+                {
+                    "Thana_Number": 632,
+                    "Thana_Name_Bn": "কাশিমপুর থানা",
+                    "Thana_Name_En": "Kashimpur Thana",
+                    "Thana_ID": "BPMPGZKAS"
+                },
+                {
+                    "Thana_Number": 633,
+                    "Thana_Name_Bn": "গাছা থানা",
+                    "Thana_Name_En": "Gacha Thana",
+                    "Thana_ID": "BPMPGZGAC"
+                },
+                {
+                    "Thana_Number": 634,
+                    "Thana_Name_Bn": "পুবাইল থানা",
+                    "Thana_Name_En": "Pubail Thana",
+                    "Thana_ID": "BPMPGZPUB"
+                },
+                {
+                    "Thana_Number": 635,
+                    "Thana_Name_Bn": "টঙ্গী পূর্ব থানা",
+                    "Thana_Name_En": "Tongi East Thana",
+                    "Thana_ID": "BPMPGZTON"
+                },
+                {
+                    "Thana_Number": 636,
+                    "Thana_Name_Bn": "টঙ্গী পশ্চিম থানা",
+                    "Thana_Name_En": "Tongi West Thana",
+                    "Thana_ID": "BPMPGZTOW"
+                }
+            ]
+        }
+    ]
+}
