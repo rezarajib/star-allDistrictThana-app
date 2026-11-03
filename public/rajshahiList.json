@@ -403,12 +403,6 @@
           "Thana_Name_Bn": "পুঠিয়া থানা",
           "Thana_Name_En": "Puthia Thana",
           "Thana_ID": "BPJRRSPUT"
-        },
-        {
-          "Thana_Number": 268,
-          "Thana_Name_Bn": "কামারখন্দ থানা",
-          "Thana_Name_En": "Kamarkhanda Thana",
-          "Thana_ID": "BPJRSGKAM"
         }
       ]
     },
@@ -417,6 +411,12 @@
       "District_Name_En": "Sirajganj District",
       "District_ID": "BPJRSG",
       "Thanas": [
+        {
+          "Thana_Number": 268,
+          "Thana_Name_Bn": "কামারখন্দ থানা",
+          "Thana_Name_En": "Kamarkhanda Thana",
+          "Thana_ID": "BPJRSGKAM"
+        },
         {
           "Thana_Number": 269,
           "Thana_Name_Bn": "রায়গঞ্জ থানা",
