@@ -316,7 +316,7 @@
           "Thana_Number": 144,
           "Thana_Name_Bn": "চান্দিনা থানা",
           "Thana_Name_En": "Chandina Thana",
-          "Thana_ID": "BPCRCMCCH"
+          "Thana_ID": "BPCRCMCHC"
         },
         {
           "Thana_Number": 145,
@@ -401,7 +401,7 @@
           "Thana_Number": 157,
           "Thana_Name_Bn": "উখিয়া থানা",
           "Thana_Name_En": "Ukhiya Thana",
-          "Thana_ID": "BPCRCMUKH"
+          "Thana_ID": "BPCRCBUKH"
         },
         {
           "Thana_Number": 158,
@@ -437,7 +437,7 @@
           "Thana_Number": 163,
           "Thana_Name_Bn": "মহেশখালী থানা",
           "Thana_Name_En": "Moheshkhali Thana",
-          "Thana_ID": "BPCRCBMHA"
+          "Thana_ID": "BPCRCBMAH"
         },
         {
           "Thana_Number": 164,
@@ -449,7 +449,7 @@
           "Thana_Number": 165,
           "Thana_Name_Bn": "কক্সবাজার সদর থানা",
           "Thana_Name_En": "Cox's Bazar Sadar Thana",
-          "Thana_ID": "BPCRCBOX"
+          "Thana_ID": "BPCRCBCOX"
         }
       ]
     },
@@ -462,19 +462,19 @@
           "Thana_Number": 166,
           "Thana_Name_Bn": "সোনাগাজী মডেল থানা",
           "Thana_Name_En": "Sonagazi Model Thana",
-          "Thana_ID": "BPCRFENSON"
+          "Thana_ID": "BPCRFNSON"
         },
         {
           "Thana_Number": 167,
           "Thana_Name_Bn": "ফুলগাজী থানা",
           "Thana_Name_En": "Fulgazi Thana",
-          "Thana_ID": "BPCRFENFUL"
+          "Thana_ID": "BPCRFNFUL"
         },
         {
           "Thana_Number": 168,
           "Thana_Name_Bn": "পরশুরাম থানা",
           "Thana_Name_En": "Parshuram Thana",
-          "Thana_ID": "BPCRFENPAR"
+          "Thana_ID": "BPCRFNPAR"
         },
         {
           "Thana_Number": 169,
@@ -539,15 +539,15 @@
         },
         {
           "Thana_Number": 178,
-          "Thana_Name_Bn": "মহালছড়ি থানা",
+          "Thana_Name_Bn": "মানিকছড়ি থানা",
           "Thana_Name_En": "Mahalchhari Thana",
-          "Thana_ID": "BPCRKCMOH"
+          "Thana_ID": "BPCRKCMAN"
         },
         {
           "Thana_Number": 179,
-          "Thana_Name_Bn": "মানিকছড়ি থানা",
+          "Thana_Name_Bn": "মহালছড়ি থানা",
           "Thana_Name_En": "Manikchhari Thana",
-          "Thana_ID": "BPCRKCMAN"
+          "Thana_ID": "BPCRKCMOH"
         },
         {
           "Thana_Number": 180,
@@ -566,13 +566,13 @@
           "Thana_Number": 181,
           "Thana_Name_Bn": "রায়পুর থানা",
           "Thana_Name_En": "Raipur Thana",
-          "Thana_ID": "BPCRLPRAR"
+          "Thana_ID": "BPCRLPRAI"
         },
         {
           "Thana_Number": 182,
           "Thana_Name_Bn": "রামগতি থানা",
           "Thana_Name_En": "Ramgati Thana",
-          "Thana_ID": "BPCRLPRAI"
+          "Thana_ID": "BPCRLPRAM"
         },
         {
           "Thana_Number": 183,
@@ -676,13 +676,13 @@
           "Thana_Number": 197,
           "Thana_Name_Bn": "জুরাইছড়ি থানা",
           "Thana_Name_En": "Juraichhari Thana",
-          "Thana_ID": "BPCRRMMJUR"
+          "Thana_ID": "BPCRRMJUR"
         },
         {
           "Thana_Number": 198,
           "Thana_Name_Bn": "রাঙ্গামাটি কোতোয়ালি থানা",
           "Thana_Name_En": "Rangamati Kotwali Thana",
-          "Thana_ID": "BPCRRMRAM"
+          "Thana_ID": "BPCRRMRAN"
         },
         {
           "Thana_Number": 199,
