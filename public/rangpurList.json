@@ -164,7 +164,7 @@
           "Thana_Number": 452,
           "Thana_Name_Bn": "রৌমারী থানা",
           "Thana_Name_En": "Roumari Thana",
-          "Thana_ID": "BPRRKROU"
+          "Thana_ID": "BPRRKRROU"
         },
         {
           "Thana_Number": 453,
@@ -336,31 +336,31 @@
           "Thana_Number": 476,
           "Thana_Name_Bn": "মিঠাপুকুর থানা",
           "Thana_Name_En": "Mithapukur Thana",
-          "Thana_ID": "BPRRGMIT"
+          "Thana_ID": "BPRRRGMIT"
         },
         {
           "Thana_Number": 477,
           "Thana_Name_Bn": "তারাগঞ্জ থানা",
           "Thana_Name_En": "Taraganj Thana",
-          "Thana_ID": "BPRRGTAR"
+          "Thana_ID": "BPRRRGTAR"
         },
         {
           "Thana_Number": 478,
           "Thana_Name_Bn": "রংপুর কোতোয়ালি থানা",
           "Thana_Name_En": "Rangpur Kotwali Thana",
-          "Thana_ID": "BPRRGRAN"
+          "Thana_ID": "BPRRRGRAN"
         },
         {
           "Thana_Number": 479,
           "Thana_Name_Bn": "গঙ্গাচড়া থানা",
           "Thana_Name_En": "Gangachhara Thana",
-          "Thana_ID": "BPRRGGAN"
+          "Thana_ID": "BPRRRGGAN"
         },
         {
           "Thana_Number": 480,
           "Thana_Name_Bn": "বদরগঞ্জ থানা",
           "Thana_Name_En": "Badarganj Thana",
-          "Thana_ID": "BPRRGBAD"
+          "Thana_ID": "BPRRRGBAD"
         },
         {
           "Thana_Number": 481,
@@ -372,13 +372,13 @@
           "Thana_Number": 482,
           "Thana_Name_Bn": "পীরগঞ্জ থানা",
           "Thana_Name_En": "Pirganj Thana",
-          "Thana_ID": "BPRRGPIR"
+          "Thana_ID": "BPRRRGPIR"
         },
         {
           "Thana_Number": 483,
           "Thana_Name_Bn": "পীরগাছা থানা",
           "Thana_Name_En": "Pirgachha Thana",
-          "Thana_ID": "BPRRGPIP"
+          "Thana_ID": "BPRRRGPIP"
         }
       ]
     },
