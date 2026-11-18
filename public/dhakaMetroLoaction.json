@@ -1,0 +1,1104 @@
+[
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 527,
+    "thana_id": "BPMPDKADA",
+    "name_en": "Adabor Thana",
+    "name_bn": "আদাবর থানা",
+    "location_en": "Ring Road, Adabor, Dhaka",
+    "location_bn": "রিং রোড, আদাবর, ঢাকা",
+    "latitude": 23.77117,
+    "longitude": 90.35936
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 528,
+    "thana_id": "BPMPDKAIR",
+    "name_en": "Bimanbandar Thana",
+    "name_bn": "বিমানবন্দর থানা",
+    "location_en": "Hazrat Shahjalal International Airport Area, Dhaka",
+    "location_bn": "হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর এলাকা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 529,
+    "thana_id": "BPMPDKBAD",
+    "name_en": "Badda Thana",
+    "name_bn": "বাড্ডা থানা",
+    "location_en": "Uttar Badda, Pragati Sarani, Dhaka",
+    "location_bn": "উত্তর বাড্ডা, প্রগতি সরণি, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 530,
+    "thana_id": "BPMPDKBAN",
+    "name_en": "Banani Thana",
+    "name_bn": "বনানী থানা",
+    "location_en": "Road No. 7, Block-G, Banani, Dhaka",
+    "location_bn": "রোড নং ৭, ব্লক-জি, বনানী, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 531,
+    "thana_id": "BPMPDKBAB",
+    "name_en": "Bangshal Thana",
+    "name_bn": "বংশাল থানা",
+    "location_en": "North South Road, Bangshal, Dhaka",
+    "location_bn": "নর্থ সাউথ রোড, বংশাল, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 532,
+    "thana_id": "BPMPDKBHA",
+    "name_en": "Bhasantek Thana",
+    "name_bn": "ভাসানটেক থানা",
+    "location_en": "Bhasantek Bazar Area, Mirpur, Dhaka",
+    "location_bn": "ভাসানটেক বাজার সংলগ্ন, মিরপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 533,
+    "thana_id": "BPMPDKCAN",
+    "name_en": "Cantonment Thana",
+    "name_bn": "ক্যান্টনমেন্ট থানা",
+    "location_en": "Dhaka Cantonment, Dhaka",
+    "location_bn": "ঢাকা সেনানিবাস, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 534,
+    "thana_id": "BPMPDKCHA",
+    "name_en": "Chakbazar Thana",
+    "name_bn": "চকবাজার থানা",
+    "location_en": "Chawkbazar Shahi Mosque Area, Old Dhaka",
+    "location_bn": "চকবাজার শাহী মসজিদ সংলগ্ন, পুরান ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 535,
+    "thana_id": "BPMPDKDAK",
+    "name_en": "Dakkhinkhan Thana",
+    "name_bn": "দক্ষিণখান থানা",
+    "location_en": "Dakkhinkhan Bazar, Uttara, Dhaka",
+    "location_bn": "দক্ষিণখান বাজার, উত্তরা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 536,
+    "thana_id": "BPMPDKDAR",
+    "name_en": "Darus Salam Thana",
+    "name_bn": "দারুস সালাম থানা",
+    "location_en": "Technical Intersection, Darus Salam, Mirpur, Dhaka",
+    "location_bn": "টেকনিক্যাল মোড়, দারুস সালাম, মিরপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 537,
+    "thana_id": "BPMPDKDEM",
+    "name_en": "Demra Thana",
+    "name_bn": "ডেমরা থানা",
+    "location_en": "Staff Quarter, Demra, Dhaka",
+    "location_bn": "স্টাফ কোয়ার্টার, ডেমরা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 538,
+    "thana_id": "BPMPDKDHA",
+    "name_en": "Dhanmondi Thana",
+    "name_bn": "ধানমন্ডি থানা",
+    "location_en": "Road No. 6, Dhanmondi R/A, Dhaka",
+    "location_bn": "রোড নং ৬, ধানমন্ডি আবাসিক এলাকা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 539,
+    "thana_id": "BPMPDKGAN",
+    "name_en": "Gendaria Thana",
+    "name_bn": "গেন্ডারিয়া থানা",
+    "location_en": "Dinnath Sen Road, Gendaria, Dhaka",
+    "location_bn": "দীননাথ সেন রোড, গেন্ডারিয়া, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 540,
+    "thana_id": "BPMPDKGUL",
+    "name_en": "Gulshan Thana",
+    "name_bn": "গুলশান থানা",
+    "location_en": "Road No. 103, Gulshan-2, Dhaka",
+    "location_bn": "রোড নং ১০৩, গুলশান-২, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 541,
+    "thana_id": "BPMPDKHAT",
+    "name_en": "Hatirjheel Thana",
+    "name_bn": "হাতিরঝিল থানা",
+    "location_en": "Moghbazar Wireless Gate / Hatirjheel Area, Dhaka",
+    "location_bn": "মগবাজার ওয়্যারলেস মোড় ও হাতিরঝিল সংলগ্ন, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 542,
+    "thana_id": "BPMPDKHAZ",
+    "name_en": "Hazaribagh Thana",
+    "name_bn": "হাজারীবাগ থানা",
+    "location_en": "Tannery Intersection, Hazaribagh, Dhaka",
+    "location_bn": "ট্যানারি মোড় সংলগ্ন, হাজারীবাগ, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 543,
+    "thana_id": "BPMPDKJAT",
+    "name_en": "Jatrabari Thana",
+    "name_bn": "যাত্রাবাড়ী থানা",
+    "location_en": "Shaheed Faruk Road, Jatrabari, Dhaka",
+    "location_bn": "শহীদ ফারুক রোড, যাত্রাবাড়ী, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 544,
+    "thana_id": "BPMPDKKAD",
+    "name_en": "Kadamtali Thana",
+    "name_bn": "কদমতলী থানা",
+    "location_en": "Dania / Shonir Akhra Area, Kadamtali, Dhaka",
+    "location_bn": "দনিয়া ও শনির আখড়া সংলগ্ন, কদমতলী, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 545,
+    "thana_id": "BPMPDKKAF",
+    "name_en": "Kafrul Thana",
+    "name_bn": "কাফরুল থানা",
+    "location_en": "Kachukhet / Ibrahimpur Area, Kafrul, Dhaka",
+    "location_bn": "কচুক্ষেত ও ইব্রাহিমপুর সংলগ্ন, কাফরুল, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 546,
+    "thana_id": "BPMPDKKAL",
+    "name_en": "Kalabagan Thana",
+    "name_bn": "কলাবাগান থানা",
+    "location_en": "Bashir Uddin Road, Kalabagan, Dhaka",
+    "location_bn": "বশির উদ্দিন রোড, কলাবাগান, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 547,
+    "thana_id": "BPMPDKKAM",
+    "name_en": "Kamrangirchar Thana",
+    "name_bn": "কামরাঙ্গীরচর থানা",
+    "location_en": "Purba Rasulpur, Kamrangirchar, Dhaka",
+    "location_bn": "পূর্ব রসুলপুর, কামরাঙ্গীরচর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 548,
+    "thana_id": "BPMPDKKHI",
+    "name_en": "Khilgaon Thana",
+    "name_bn": "খিলগাঁও থানা",
+    "location_en": "Khilgaon Railgate Area, Dhaka",
+    "location_bn": "খিলগাঁও রেলগেট সংলগ্ন, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 549,
+    "thana_id": "BPMPDKKHK",
+    "name_en": "Khilkhet Thana",
+    "name_bn": "খিলক্ষেত থানা",
+    "location_en": "Nikunja-2 / Khilkhet Bus Stand Area, Dhaka",
+    "location_bn": "নিকুঞ্জ-২ ও খিলক্ষেত বাসস্ট্যান্ড সংলগ্ন, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 550,
+    "thana_id": "BPMPDKKOT",
+    "name_en": "Kotwali Thana",
+    "name_bn": "কোতোয়ালি থানা",
+    "location_en": "Johnson Road, Sadarghat, Dhaka",
+    "location_bn": "জনসন রোড, সদরঘাট, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 551,
+    "thana_id": "BPMPDKLAL",
+    "name_en": "Lalbagh Thana",
+    "name_bn": "লালবাগ থানা",
+    "location_en": "Lalbagh Fort Area, Lalbagh, Dhaka",
+    "location_bn": "লালবাগ কেল্লার মোড় সংলগ্ন, লালবাগ, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 552,
+    "thana_id": "BPMPDKMIR",
+    "name_en": "Mirpur Model Thana",
+    "name_bn": "মিরপুর মডেল থানা",
+    "location_en": "Section-2, Mirpur, Dhaka",
+    "location_bn": "সেকশন-২, মিরপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 553,
+    "thana_id": "BPMPDKMOH",
+    "name_en": "Mohammadpur Thana",
+    "name_bn": "মোহাম্মদপুর থানা",
+    "location_en": "Satmasjid Road, Mohammadpur Bus Stand, Dhaka",
+    "location_bn": "সাতমসজিদ রোড, মোহাম্মদপুর বাসস্ট্যান্ড, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 554,
+    "thana_id": "BPMPDKMOT",
+    "name_en": "Motijheel Thana",
+    "name_bn": "মতিঝিল থানা",
+    "location_en": "AGB Colony Area, Motijheel, Dhaka",
+    "location_bn": "এজিবি কলোনি সংলগ্ন, মতিঝিল, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 555,
+    "thana_id": "BPMPDKMUG",
+    "name_en": "Mugda Thana",
+    "name_bn": "মুগদা থানা",
+    "location_en": "Uttar Mugdapara, Mugda, Dhaka",
+    "location_bn": "উত্তর মুগদাপাড়া, মুগদা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 556,
+    "thana_id": "BPMPDKNEW",
+    "name_en": "New Market Thana",
+    "name_bn": "নিউমার্কেট থানা",
+    "location_en": "Elephant Road, New Market Area, Dhaka",
+    "location_bn": "এলিফ্যান্ট রোড, নিউমার্কেট সংলগ্ন, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 557,
+    "thana_id": "BPMPDKPAL",
+    "name_en": "Pallabi Thana",
+    "name_bn": "পল্লবী থানা",
+    "location_en": "Section-11.5, Pallabi, Mirpur, Dhaka",
+    "location_bn": "সেকশন-১১.৫, পল্লবী, মিরপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 558,
+    "thana_id": "BPMPDKPAM",
+    "name_en": "Paltan Model Thana",
+    "name_bn": "পল্টন মডেল থানা",
+    "location_en": "VIP Road, Naya Paltan, Dhaka",
+    "location_bn": "ভিআইপি রোড, নয়াপল্টন, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 559,
+    "thana_id": "BPMPDKRAM",
+    "name_en": "Ramna Model Thana",
+    "name_bn": "রমনা মডেল থানা",
+    "location_en": "New Bailey Road, Ramna, Dhaka",
+    "location_bn": "নিউ বেইলি রোড, রমনা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 560,
+    "thana_id": "BPMPDKRAR",
+    "name_en": "Rampura Thana",
+    "name_bn": "রামপুরা থানা",
+    "location_en": "DIT Road, East Rampura, Dhaka",
+    "location_bn": "ডিআইটি রোড, পূর্ব রামপুরা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 561,
+    "thana_id": "BPMPDKRUP",
+    "name_en": "Rupnagar Thana",
+    "name_bn": "রূপনগর থানা",
+    "location_en": "Rupnagar R/A, Mirpur, Dhaka",
+    "location_bn": "রূপনগর আবাসিক এলাকা, মিরপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 562,
+    "thana_id": "BPMPDKSAB",
+    "name_en": "Sabujbagh Thana",
+    "name_bn": "সবুজবাগ থানা",
+    "location_en": "Basabo Buddhist Temple Area, Sabujbagh, Dhaka",
+    "location_bn": "বাসাবো বৌদ্ধ মন্দির সংলগ্ন, সবুজবাগ, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 563,
+    "thana_id": "BPMPDKSHA",
+    "name_en": "Shah Ali Thana",
+    "name_bn": "শাহ আলী থানা",
+    "location_en": "Mirpur-1 (Near Shah Ali Mazar), Dhaka",
+    "location_bn": "মিরপুর-১ (শাহ আলী মাজার সংলগ্ন), ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 564,
+    "thana_id": "BPMPDKSHS",
+    "name_en": "Shahbagh Thana",
+    "name_bn": "শাহবাগ থানা",
+    "location_en": "Shahbagh Intersection, Dhaka",
+    "location_bn": "শাহবাগ মোড়, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 565,
+    "thana_id": "BPMPDKSSH",
+    "name_en": "Shahjahanpur Thana",
+    "name_bn": "শাহজাহানপুর থানা",
+    "location_en": "Uttar Shahjahanpur, Dhaka",
+    "location_bn": "উত্তর শাহজাহানপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 566,
+    "thana_id": "BPMPDKSHE",
+    "name_en": "Sher-e-Bangla Nagar Thana",
+    "name_bn": "শেরবাংলা নগর থানা",
+    "location_en": "Agargaon, Sher-e-Bangla Nagar, Dhaka",
+    "location_bn": "আগারগাঁও, শেরবাংলা নগর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 567,
+    "thana_id": "BPMPDKSHY",
+    "name_en": "Shyampur Thana",
+    "name_bn": "শ্যামপুর থানা",
+    "location_en": "Jurain Railgate Area, Shyampur, Dhaka",
+    "location_bn": "জুরাইন রেলগেট সংলগ্ন, শ্যামপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 568,
+    "thana_id": "BPMPDKSUT",
+    "name_en": "Sutrapur Thana",
+    "name_bn": "সূত্রাপুর থানা",
+    "location_en": "R.M. Das Road, Sutrapur, Dhaka",
+    "location_bn": "আর. এম. দাস রোড, সূত্রাপুর, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 569,
+    "thana_id": "BPMPDKTEJ",
+    "name_en": "Tejgaon Thana",
+    "name_bn": "তেজগাঁও থানা",
+    "location_en": "Farmgate, Tejgaon, Dhaka",
+    "location_bn": "ফার্মগেট, তেজগাঁও, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 570,
+    "thana_id": "BPMPDKTEA",
+    "name_en": "Tejgaon Industrial Area Thana",
+    "name_bn": "তেজগাঁও শিল্পাঞ্চল থানা",
+    "location_en": "Satrasta Intersection, Tejgaon I/A, Dhaka",
+    "location_bn": "সাতরাস্তা মোড়, তেজগাঁও শিল্পাঞ্চল, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 571,
+    "thana_id": "BPMPDKTUR",
+    "name_en": "Turag Thana",
+    "name_bn": "তুরাগ থানা",
+    "location_en": "Dhour / Kamarpara Area, Turag, Uttara, Dhaka",
+    "location_bn": "ধউর ও কামারপাড়া সংলগ্ন, তুরাগ, উত্তরা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 572,
+    "thana_id": "BPMPDKUTT",
+    "name_en": "Uttarkhan Thana",
+    "name_bn": "উত্তরখান থানা",
+    "location_en": "Uttarkhan Bazar Area, Uttara, Dhaka",
+    "location_bn": "উত্তরখান বাজার সংলগ্ন, উত্তরা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 573,
+    "thana_id": "BPMPDKUTE",
+    "name_en": "Uttara East Thana",
+    "name_bn": "উত্তরা পূর্ব থানা",
+    "location_en": "Sector-4, Azampur, Uttara, Dhaka",
+    "location_bn": "সেক্টর-৪, আজমপুর, উত্তরা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 574,
+    "thana_id": "BPMPDKUTW",
+    "name_en": "Uttara West Thana",
+    "name_bn": "উত্তরা পশ্চিম থানা",
+    "location_en": "Sector-11, Uttara, Dhaka",
+    "location_bn": "সেক্টর-১১, উত্তরা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 575,
+    "thana_id": "BPMPDKVAT",
+    "name_en": "Vatara Thana",
+    "name_bn": "ভাটারা থানা",
+    "location_en": "Natun Bazar / Baridhara Area, Vatara, Dhaka",
+    "location_bn": "নতুন বাজার ও বারিধারা সংলগ্ন, ভাটারা, ঢাকা"
+  },
+  {
+    "unit": "Dhaka Metropolitan Police (DMP)",
+    "unit_id": "BPMPDK",
+    "thana_no": 576,
+    "thana_id": "BPMPDKWAR",
+    "name_en": "Wari Thana",
+    "name_bn": "ওয়ারী থানা",
+    "location_en": "Tipu Sultan Road, Wari, Dhaka",
+    "location_bn": "টিপু সুলতান রোড, ওয়ারী, ঢাকা"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 577,
+    "thana_id": "BPMPCTKOT",
+    "name_en": "Kotwali Thana",
+    "name_bn": "কোতোয়ালি থানা",
+    "location_en": "New Market / Court Building Area, Kotwali, Chattogram",
+    "location_bn": "নিউমার্কেট ও কোর্ট বিল্ডিং এলাকা, কোতোয়ালি, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 578,
+    "thana_id": "BPMPCTBAK",
+    "name_en": "Bakalia Thana",
+    "name_bn": "বাকলিয়া থানা",
+    "location_en": "Chaktai / Bakalia Access Road, Chattogram",
+    "location_bn": "চাক্তাই ও বাকলিয়া এক্সেস রোড, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 579,
+    "thana_id": "BPMPCTCHA",
+    "name_en": "Chakbazar Thana",
+    "name_bn": "চকবাজার থানা",
+    "location_en": "Chawkbazar Area, Chattogram",
+    "location_bn": "চকবাজার এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 580,
+    "thana_id": "BPMPCTSAD",
+    "name_en": "Sadarghat Thana",
+    "name_bn": "সদরঘাট থানা",
+    "location_en": "Sadarghat Road, Chattogram",
+    "location_bn": "সদরঘাট রোড, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 581,
+    "thana_id": "BPMPCTPAN",
+    "name_en": "Panchlaish Thana",
+    "name_bn": "পাঁচলাইশ থানা",
+    "location_en": "Panchlaish R/A, Chattogram",
+    "location_bn": "পাঁচলাইশ আবাসিক এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 582,
+    "thana_id": "BPMPCTCHC",
+    "name_en": "Chandgaon Thana",
+    "name_bn": "চান্দগাঁও থানা",
+    "location_en": "Bahaddarhat / Chandgaon Area, Chattogram",
+    "location_bn": "বহদ্দারহাট ও চান্দগাঁও এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 583,
+    "thana_id": "BPMPCTBAY",
+    "name_en": "Bayezid Bostami Thana",
+    "name_bn": "বায়োজিদ বোস্তামী থানা",
+    "location_en": "Bayezid Bostami Road, Chattogram",
+    "location_bn": "বায়োজিদ বোস্তামী রোড, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 584,
+    "thana_id": "BPMPCTKHU",
+    "name_en": "Khulshi Thana",
+    "name_bn": "খুলশী থানা",
+    "location_en": "Zakir Hossain Road, Khulshi, Chattogram",
+    "location_bn": "জাকির হোসেন রোড, খুলশী, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 585,
+    "thana_id": "BPMPCTDOU",
+    "name_en": "Double Mooring Thana",
+    "name_bn": "ডবলমুরিং থানা",
+    "location_en": "Agrabad Commercial Area, Chattogram",
+    "location_bn": "আগ্রাবাদ বাণিজ্যিক এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 586,
+    "thana_id": "BPMPCTPAH",
+    "name_en": "Pahartali Thana",
+    "name_bn": "পাহাড়তলী থানা",
+    "location_en": "Pahartali Area, Chattogram",
+    "location_bn": "পাহাড়তলী এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 587,
+    "thana_id": "BPMPCTHAL",
+    "name_en": "Halishahar Thana",
+    "name_bn": "হালিশহর থানা",
+    "location_en": "Halishahar Housing Estate, Chattogram",
+    "location_bn": "হালিশহর হাউজিং এস্টেট, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 588,
+    "thana_id": "BPMPCTAKB",
+    "name_en": "Akbar Shah Thana",
+    "name_bn": "আকবর শাহ থানা",
+    "location_en": "AK Khan / Akbar Shah Area, Chattogram",
+    "location_bn": "এ কে খান ও আকবর শাহ এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 589,
+    "thana_id": "BPMPCTBAN",
+    "name_en": "Bandar Thana",
+    "name_bn": "বন্দর থানা",
+    "location_en": "Chittagong Port Area, Bandar, Chattogram",
+    "location_bn": "চট্টগ্রাম বন্দর এলাকা, বন্দর, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 590,
+    "thana_id": "BPMPCTPAT",
+    "name_en": "Patenga Thana",
+    "name_bn": "পতেঙ্গা থানা",
+    "location_en": "Patenga Sea Beach / Airport Road, Chattogram",
+    "location_bn": "পতেঙ্গা সমুদ্র সৈকত ও এয়ারপোর্ট রোড, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 591,
+    "thana_id": "BPMPCTKAR",
+    "name_en": "Karnafuli Thana",
+    "name_bn": "কর্ণফুলী থানা",
+    "location_en": "Shikalbaha / Karnafuli Bridge Area, Chattogram",
+    "location_bn": "শিকলবাহা ও কর্ণফুলী সেতু এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Chittagong Metropolitan Police (CMP)",
+    "unit_id": "BPMPCT",
+    "thana_no": 592,
+    "thana_id": "BPMPCTEPZ",
+    "name_en": "EPZ Thana",
+    "name_bn": "ইপিজেড থানা",
+    "location_en": "CEPZ Gate Area, Chattogram",
+    "location_bn": "সিইপিজেড গেট এলাকা, চট্টগ্রাম"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 593,
+    "thana_id": "BPMPRJBOA",
+    "name_en": "Boalia Thana",
+    "name_bn": "বোয়ালিয়া থানা",
+    "location_en": "Shaheb Bazar / Zero Point Area, Rajshahi",
+    "location_bn": "সাহেব বাজার ও জিরো পয়েন্ট এলাকা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 594,
+    "thana_id": "BPMPRJRAJ",
+    "name_en": "Rajpara Thana",
+    "name_bn": "রাজপাড়া থানা",
+    "location_en": "Laxmipur / Rajpara Area, Rajshahi",
+    "location_bn": "লক্ষ্মীপুর ও রাজপাড়া এলাকা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 595,
+    "thana_id": "BPMPRJCHA",
+    "name_en": "Chandrima Thana",
+    "name_bn": "চন্দ্রিমা থানা",
+    "location_en": "Padma R/A / Chandrima Area, Rajshahi",
+    "location_bn": "পদ্মা আবাসিক ও চন্দ্রিমা এলাকা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 596,
+    "thana_id": "BPMPRJMOT",
+    "name_en": "Motihar Thana",
+    "name_bn": "মতিহার থানা",
+    "location_en": "Binodpur / Rajshahi University Area, Rajshahi",
+    "location_bn": "বিনোদপুর ও রাজশাহী বিশ্ববিদ্যালয় এলাকা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 597,
+    "thana_id": "BPMPRJKAT",
+    "name_en": "Katakhali Thana",
+    "name_bn": "কাটাখালী থানা",
+    "location_en": "Katakhali Bazar, Rajshahi",
+    "location_bn": "কাটাখালী বাজার, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 598,
+    "thana_id": "BPMPRJBEL",
+    "name_en": "Belpukur Thana",
+    "name_bn": "বেলপুকুর থানা",
+    "location_en": "Belpukur Area, Paba, Rajshahi",
+    "location_bn": "বেলপুকুর এলাকা, পবা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 599,
+    "thana_id": "BPMPRJSHA",
+    "name_en": "Shah Makhdum Thana",
+    "name_bn": "শাহ মখদুম থানা",
+    "location_en": "Sapura / Shah Makhdum Area, Rajshahi",
+    "location_bn": "সপুরা ও শাহ মখদুম এলাকা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 600,
+    "thana_id": "BPMPRJAIR",
+    "name_en": "Bimanbandar Thana",
+    "name_bn": "বিমানবন্দর থানা",
+    "location_en": "Shah Makhdum Airport Area, Rajshahi",
+    "location_bn": "শাহ মখদুম বিমানবন্দর এলাকা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 601,
+    "thana_id": "BPMPRJPOB",
+    "name_en": "Paba Thana",
+    "name_bn": "পবা থানা",
+    "location_en": "Nawhata / Paba Upazila Sadar, Rajshahi",
+    "location_bn": "নওহাটা ও পবা উপজেলা সদর, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 602,
+    "thana_id": "BPMPRJKAS",
+    "name_en": "Kashiadanga Thana",
+    "name_bn": "কাশিয়াডাঙ্গা থানা",
+    "location_en": "Kashiadanga Intersection, Rajshahi",
+    "location_bn": "কাশিয়াডাঙ্গা মোড়, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 603,
+    "thana_id": "BPMPRJKAR",
+    "name_en": "Karnahar Thana",
+    "name_bn": "কর্ণহার থানা",
+    "location_en": "Karnahar Bazar, Paba, Rajshahi",
+    "location_bn": "কর্ণহার বাজার, পবা, রাজশাহী"
+  },
+  {
+    "unit": "Rajshahi Metropolitan Police (RMP)",
+    "unit_id": "BPMPRJ",
+    "thana_no": 604,
+    "thana_id": "BPMPRJDAM",
+    "name_en": "Damkura Thana",
+    "name_bn": "দামকুড়া থানা",
+    "location_en": "Damkura Hat, Paba, Rajshahi",
+    "location_bn": "দামকুড়া হাট, পবা, রাজশাহী"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 605,
+    "thana_id": "BPMPKLKHU",
+    "name_en": "Khulna Sadar Thana",
+    "name_bn": "খুলনা সদর থানা",
+    "location_en": "KDA Avenue / Dakbangla Area, Khulna",
+    "location_bn": "কেডিএ এভিনিউ ও ডাকবাংলা এলাকা, খুলনা"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 606,
+    "thana_id": "BPMPKLSON",
+    "name_en": "Sonadanga Thana",
+    "name_bn": "সোনাডাঙ্গা থানা",
+    "location_en": "Sonadanga R/A, Khulna",
+    "location_bn": "সোনাডাঙ্গা আবাসিক এলাকা, খুলনা"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 607,
+    "thana_id": "BPMPKLKHA",
+    "name_en": "Khalishpur Thana",
+    "name_bn": "খালিশপুর থানা",
+    "location_en": "Khalishpur Housing Estate, Khulna",
+    "location_bn": "খালিশপুর হাউজিং এস্টেট, খুলনা"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 608,
+    "thana_id": "BPMPKLDAU",
+    "name_en": "Daulatpur Thana",
+    "name_bn": "দৌলতপুর থানা",
+    "location_en": "Daulatpur Bazar Area, Khulna",
+    "location_bn": "দৌলতপুর বাজার এলাকা, খুলনা"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 609,
+    "thana_id": "BPMPKLKAL",
+    "name_en": "Khan Jahan Ali Thana",
+    "name_bn": "খানজাহান আলী থানা",
+    "location_en": "Shiromoni / Phultala Road, Khulna",
+    "location_bn": "শিরোমণি ও ফুলতলা রোড, খুলনা"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 610,
+    "thana_id": "BPMPKLLAB",
+    "name_en": "Labanchara Thana",
+    "name_bn": "লবণচরা থানা",
+    "location_en": "Labanchara / Rupsha Bridge Area, Khulna",
+    "location_bn": "লবণচরা ও রূপসা সেতু এলাকা, খুলনা"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 611,
+    "thana_id": "BPMPKLHAR",
+    "name_en": "Harintana Thana",
+    "name_bn": "হরিণটানা থানা",
+    "location_en": "Zero Point / Harintana Area, Khulna",
+    "location_bn": "জিরো পয়েন্ট ও হরিণটানা এলাকা, খুলনা"
+  },
+  {
+    "unit": "Khulna Metropolitan Police (KMP)",
+    "unit_id": "BPMPKL",
+    "thana_no": 612,
+    "thana_id": "BPMPKLARA",
+    "name_en": "Aranghata Thana",
+    "name_bn": "আরংঘাটা থানা",
+    "location_en": "Aranghata Bazar, Khulna",
+    "location_bn": "আরংঘাটা বাজার, খুলনা"
+  },
+  {
+    "unit": "Barisal Metropolitan Police (BMP)",
+    "unit_id": "BPMPBR",
+    "thana_no": 613,
+    "thana_id": "BPMPBRKOT",
+    "name_en": "Kotwali Model Thana",
+    "name_bn": "কোতোয়ালি মডেল থানা",
+    "location_en": "Sadar Road / Chowmatha Area, Barishal",
+    "location_bn": "সদর রোড ও চৌমাথা এলাকা, বরিশাল"
+  },
+  {
+    "unit": "Barisal Metropolitan Police (BMP)",
+    "unit_id": "BPMPBR",
+    "thana_no": 614,
+    "thana_id": "BPMPBRAIR",
+    "name_en": "Bimanbandar Thana",
+    "name_bn": "বিমানবন্দর থানা",
+    "location_en": "Rahamatpur Airport Area, Barishal",
+    "location_bn": "রহমতপুর বিমানবন্দর এলাকা, বরিশাল"
+  },
+  {
+    "unit": "Barisal Metropolitan Police (BMP)",
+    "unit_id": "BPMPBR",
+    "thana_no": 615,
+    "thana_id": "BPMPBRKAU",
+    "name_en": "Kaunia Thana",
+    "name_bn": "কাউনিয়া থানা",
+    "location_en": "Kaunia Main Road, Barishal",
+    "location_bn": "কাউনিয়া মেইন রোড, বরিশাল"
+  },
+  {
+    "unit": "Barisal Metropolitan Police (BMP)",
+    "unit_id": "BPMPBR",
+    "thana_no": 616,
+    "thana_id": "BPMPBRBAN",
+    "name_en": "Bandar Thana",
+    "name_bn": "বন্দর থানা",
+    "location_en": "Sahaber Hat / Bandar Area, Barishal",
+    "location_bn": "সাহেবের হাট ও বন্দর এলাকা, বরিশাল"
+  },
+  {
+    "unit": "Sylhet Metropolitan Police (SMP)",
+    "unit_id": "BPMPSL",
+    "thana_no": 617,
+    "thana_id": "BPMPSLKOT",
+    "name_en": "Kotwali Model Thana",
+    "name_bn": "কোতোয়ালি মডেল থানা",
+    "location_en": "Bandarbazar / Zindabazar Area, Sylhet",
+    "location_bn": "বন্দরবাজার ও জিন্দাবাজার এলাকা, সিলেট"
+  },
+  {
+    "unit": "Sylhet Metropolitan Police (SMP)",
+    "unit_id": "BPMPSL",
+    "thana_no": 618,
+    "thana_id": "BPMPSLJAL",
+    "name_en": "Jalalabad Thana",
+    "name_bn": "জালালাবাদ থানা",
+    "location_en": "Akhalia / SUST Area, Sylhet",
+    "location_bn": "আখালিয়া ও শাবিপ্রবি এলাকা, সিলেট"
+  },
+  {
+    "unit": "Sylhet Metropolitan Police (SMP)",
+    "unit_id": "BPMPSL",
+    "thana_no": 619,
+    "thana_id": "BPMPSLAIR",
+    "name_en": "Bimanbandar Thana",
+    "name_bn": "বিমানবন্দর থানা",
+    "location_en": "Osmani International Airport Road, Sylhet",
+    "location_bn": "ওসমানী আন্তর্জাতিক বিমানবন্দর রোড, সিলেট"
+  },
+  {
+    "unit": "Sylhet Metropolitan Police (SMP)",
+    "unit_id": "BPMPSL",
+    "thana_no": 620,
+    "thana_id": "BPMPSLSOU",
+    "name_en": "Dakkhin Surma Thana",
+    "name_bn": "দক্ষিণ সুরমা থানা",
+    "location_en": "Kodamtali / Dakkhin Surma, Sylhet",
+    "location_bn": "কদমতলী ও দক্ষিণ সুরমা, সিলেট"
+  },
+  {
+    "unit": "Sylhet Metropolitan Police (SMP)",
+    "unit_id": "BPMPSL",
+    "thana_no": 621,
+    "thana_id": "BPMPSLMOG",
+    "name_en": "Moglabazar Thana",
+    "name_bn": "মোগলাবাজার থানা",
+    "location_en": "Moglabazar, Dakkhin Surma, Sylhet",
+    "location_bn": "মোগলাবাজার, দক্ষিণ সুরমা, সিলেট"
+  },
+  {
+    "unit": "Sylhet Metropolitan Police (SMP)",
+    "unit_id": "BPMPSL",
+    "thana_no": 622,
+    "thana_id": "BPMPSLSHA",
+    "name_en": "Shah Poran Thana",
+    "name_bn": "শাহপরান থানা",
+    "location_en": "Khadimnagar / Shah Poran Gate Area, Sylhet",
+    "location_bn": "খাদিমনগর ও শাহপরান গেট এলাকা, সিলেট"
+  },
+  {
+    "unit": "Rangpur Metropolitan Police (RpMP)",
+    "unit_id": "BPMPRP",
+    "thana_no": 623,
+    "thana_id": "BPMPRPKOT",
+    "name_en": "Kotwali Thana",
+    "name_bn": "কোতোয়ালি থানা",
+    "location_en": "Kachari Bazar / Town Hall Area, Rangpur",
+    "location_bn": "কাচারি বাজার ও টাউন হল এলাকা, রংপুর"
+  },
+  {
+    "unit": "Rangpur Metropolitan Police (RpMP)",
+    "unit_id": "BPMPRP",
+    "thana_no": 624,
+    "thana_id": "BPMPRPTAJ",
+    "name_en": "Tajhat Thana",
+    "name_bn": "তাজহাট থানা",
+    "location_en": "Modern More / Tajhat Area, Rangpur",
+    "location_bn": "মডার্ন মোড় ও তাজহাট এলাকা, রংপুর"
+  },
+  {
+    "unit": "Rangpur Metropolitan Police (RpMP)",
+    "unit_id": "BPMPRP",
+    "thana_no": 625,
+    "thana_id": "BPMPRPMAH",
+    "name_en": "Mahiganj Thana",
+    "name_bn": "মাহিগঞ্জ থানা",
+    "location_en": "Satmatha / Mahiganj Bazar, Rangpur",
+    "location_bn": "সাতমাথা ও মাহিগঞ্জ বাজার, রংপুর"
+  },
+  {
+    "unit": "Rangpur Metropolitan Police (RpMP)",
+    "unit_id": "BPMPRP",
+    "thana_no": 626,
+    "thana_id": "BPMPRPHAR",
+    "name_en": "Haragach Thana",
+    "name_bn": "হারাগাছ থানা",
+    "location_en": "Haragach Pourashava Area, Rangpur",
+    "location_bn": "হারাগাছ পৌরসভা এলাকা, রংপুর"
+  },
+  {
+    "unit": "Rangpur Metropolitan Police (RpMP)",
+    "unit_id": "BPMPRP",
+    "thana_no": 627,
+    "thana_id": "BPMPRPPOR",
+    "name_en": "Parshuram Thana",
+    "name_bn": "পরশুরাম থানা",
+    "location_en": "Parshuram / Cobu Bazar Area, Rangpur",
+    "location_bn": "পরশুরাম ও কবু বাজার এলাকা, রংপুর"
+  },
+  {
+    "unit": "Rangpur Metropolitan Police (RpMP)",
+    "unit_id": "BPMPRP",
+    "thana_no": 628,
+    "thana_id": "BPMPRPHAJ",
+    "name_en": "Hajirhat Thana",
+    "name_bn": "হাজিরহাট থানা",
+    "location_en": "Hajirhat Bazar, Rangpur",
+    "location_bn": "হাজিরহাট বাজার, রংপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 629,
+    "thana_id": "BPMPGZGAZ",
+    "name_en": "Gazipur Sadar Thana",
+    "name_bn": "গাজীপুর সদর থানা",
+    "location_en": "Joydebpur / Rajbari Road, Gazipur",
+    "location_bn": "জয়দেবপুর ও রাজবাড়ী রোড, গাজীপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 630,
+    "thana_id": "BPMPGZBAS",
+    "name_en": "Bason Thana",
+    "name_bn": "বাসন থানা",
+    "location_en": "Chandana Chowrasta, Bason, Gazipur",
+    "location_bn": "চান্দনা চৌরাস্তা, বাসন, গাজীপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 631,
+    "thana_id": "BPMPGZKON",
+    "name_en": "Konabari Thana",
+    "name_bn": "কোনাবাড়ী থানা",
+    "location_en": "Konabari BSCIC Area, Gazipur",
+    "location_bn": "কোনাবাড়ী বিসিক এলাকা, গাজীপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 632,
+    "thana_id": "BPMPGZKAS",
+    "name_en": "Kashimpur Thana",
+    "name_bn": "কাশিমপুর থানা",
+    "location_en": "Kashimpur Bazar Area, Gazipur",
+    "location_bn": "কাশিমপুর বাজার এলাকা, গাজীপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 633,
+    "thana_id": "BPMPGZGAC",
+    "name_en": "Gacha Thana",
+    "name_bn": "গাছা থানা",
+    "location_en": "Board Bazar, Gacha, Gazipur",
+    "location_bn": "বোর্ড বাজার, গাছা, গাজীপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 634,
+    "thana_id": "BPMPGZPUB",
+    "name_en": "Pubail Thana",
+    "name_bn": "পূবাইল থানা",
+    "location_en": "Pubail College Gate / Mirerbazar, Gazipur",
+    "location_bn": "পূবাইল কলেজ গেট ও মীরেরবাজার, গাজীপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 635,
+    "thana_id": "BPMPGZTON",
+    "name_en": "Tongi East Thana",
+    "name_bn": "টঙ্গী পূর্ব থানা",
+    "location_en": "Station Road / Cherag Ali, Tongi, Gazipur",
+    "location_bn": "স্টেশন রোড ও চেরাগ আলী, টঙ্গী, গাজীপুর"
+  },
+  {
+    "unit": "Gazipur Metropolitan Police (GMP)",
+    "unit_id": "BPMPGZ",
+    "thana_no": 636,
+    "thana_id": "BPMPGZTOW",
+    "name_en": "Tongi West Thana",
+    "name_bn": "টঙ্গী পশ্চিম থানা",
+    "location_en": "Auchpara / Hossain Market, Tongi, Gazipur",
+    "location_bn": "আউচপাড়া ও হোসেন মার্কেট, টঙ্গী, গাজীপুর"
+  }
+]

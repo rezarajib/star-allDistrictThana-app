@@ -1,5 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
+import { useAuth } from './context/AuthContext';
+
+// কমেন্ট উঠিয়ে দেওয়া হয়েছে এবং ফাইলের নাম অনুযায়ী সঠিক ইমপোর্ট
+import AuthModal from "./components/auth/AuthModel"; // অথবা './components/auth/AuthModel'
+
 import ThanaList from './components/ThanaList';
 import ThanaListChittagong from './components/ThanaListChittagong';
 import ThanaListRajshahi from './components/ThanaListRajshahi';
@@ -54,17 +59,23 @@ const Home = () => (
 );
 
 function App() {
+  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+  const { user, logout } = useAuth();
+
   return (
     <Router>
       <div className="min-h-screen bg-slate-50 flex flex-col font-sans">
         <header className="bg-slate-900 text-white shadow-md sticky top-0 z-50">
-          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-            <div className="flex items-center gap-2">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
+            
+            {/* App Logo */}
+            <div className="flex items-center gap-2 shrink-0">
               <span className="w-3 h-3 rounded-full bg-blue-500 animate-pulse"></span>
               <span className="font-bold text-lg tracking-wide text-slate-100">Thana Master</span>
             </div>
 
-            <nav className="flex items-center gap-3 overflow-x-auto py-2">
+            {/* Navigation Links */}
+            <nav className="flex items-center gap-2 overflow-x-auto py-2">
               <NavLink to="/" end className={({ isActive }) => `px-3 py-2 rounded-lg text-sm font-medium transition-colors whitespace-nowrap ${isActive ? 'bg-blue-600 text-white' : 'text-slate-300 hover:bg-slate-800 hover:text-white'}`}>
                 হোম
               </NavLink>
@@ -96,6 +107,29 @@ function App() {
                 মেট্রোপলিটন
               </NavLink>
             </nav>
+
+            {/* Auth Section (Login / Profile Button) */}
+            <div className="shrink-0">
+              {user ? (
+                <div className="flex items-center gap-3">
+                  <span className="text-sm font-semibold text-slate-200">{user.name || user.identifier}</span>
+                  <button
+                    onClick={logout}
+                    className="bg-red-600 hover:bg-red-700 text-white text-sm font-medium px-3 py-1.5 rounded-lg transition-colors"
+                  >
+                    লগআউট
+                  </button>
+                </div>
+              ) : (
+                <button
+                  onClick={() => setIsAuthModalOpen(true)}
+                  className="bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold px-4 py-2 rounded-lg shadow transition-colors whitespace-nowrap"
+                >
+                  লগইন / সাইন আপ
+                </button>
+              )}
+            </div>
+
           </div>
         </header>
 
@@ -117,6 +151,12 @@ function App() {
         <footer className="bg-white border-t border-slate-200 py-4 text-center text-slate-500 text-sm">
           © 2026 Thana Master App. All rights reserved.
         </footer>
+
+        {/* Global Login/Register Modal */}
+        <AuthModal
+          isOpen={isAuthModalOpen}
+          onClose={() => setIsAuthModalOpen(false)}
+        />
       </div>
     </Router>
   );
